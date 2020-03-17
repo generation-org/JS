@@ -1,2 +1,2 @@
 # JS
-Intro to JS Exercises
+Intro to JS Module
