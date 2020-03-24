@@ -13,9 +13,18 @@ So for example, if Manny is 19 years old then the function describe of his objec
 ### Exercise #2: The Reading List
 An object-oriented book-list!
 
-Create a class `BookList`
-
+#### Part 1 Book
 Create another class called `Book`
+Each *Book* should have several properties:
+
+* Title
+* Genre
+* Author
+* Read (true or false)
+* Read date, can be blank, otherwise needs to be a JS Date() object
+
+#### Part 2 Booklist
+Create a class `BookList`
 
 *BookLists* should have the following properties:
 
@@ -25,14 +34,6 @@ Create another class called `Book`
 * A reference to the current book being read (book object)
 * A reference to the last book read (book object)
 * An array of all the Books
-
-Each *Book* should have several properties:
-
-* Title
-* Genre
-* Author
-* Read (true or false)
-* Read date, can be blank, otherwise needs to be a JS Date() object
 
 Every *Booklist* should have a few methods:
 
@@ -46,6 +47,34 @@ Every *Booklist* should have a few methods:
   * Change the next book to be read property to be the first unread book you find in the list of books
 
 *Booklists* and *Books* might need more methods than that. Try to think of more that might be useful.
+
+#### Part 3 SOLID Principles
+Review the `SOLID` principles and see how your code can be refactored to adhere those principles.
+
+
+```
+__Single Responsibility Principle (SRP)__
+A class should have a single responsibility, job or purpose
+
+__Open/Closed Principle__
+Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification. 
+
+Why is it useful? 
+Agile – By being open to adding new features, the development process is agile. Much time won’t be spent on refactoring the code to add new features.
+Reliable – This principle ensures reliability, that adding new features will not introduce new bugs, since the code is closed to modification.
+
+__Liskov’s Substitution Principle (LSP)__
+“Derived or child classes must be substitutable for their base or parent classes“.
+This principle ensures that any class that is the child of a parent class should be usable in place of its parent without any unexpected behavior.
+
+__Interface Segregation Principle (ISP)__
+“do not force any client to implement an interface which is irrelevant to them“.
+You should prefer many client interfaces rather than one general interface and each interface should have a specific responsibility.
+
+__Dependency Inversion Principle (DIP)__
+High-level modules/classes should not depend on low-level modules/classes. Both should depend upon abstractions.
+Abstractions should not depend upon details. Details should depend upon abstractions.
+```
 
 ----
 ### Exercise #3 JSON Object Practice
