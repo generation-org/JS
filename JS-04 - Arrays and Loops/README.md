@@ -32,17 +32,6 @@ Write a JavaScript program to construct the following pattern, using a nested fo
 ```
 ### Exercise #3
 
-Mateo is waiting for the bus.
-The schedule of the bus is that it comes every 12 minutes (00, 12, 24, 36, 48). 
-
-#### Part 1
-Using switch statements, can you help him figure out how long he will need to wait until the next bus shows up?
-
-#### Part 2
-Let's say you were given the times of the bus as an array, `var times = [0, 12, 24, 36, 48]`.
-Using a for loop, can you help him figure out how long he will need to wait until the next bus shows up?
-
-### Exercise #4
 Write while loops to do the following:
 ```
 – Repeatedly print the value of the variable xValue, decreasing it by 0.5 each time,
@@ -62,4 +51,16 @@ Examples:
 n = 5 sum = 15
 n = 19 sum = 190
 ```
+
+### Challenge Yourself
+
+Mateo is waiting for the bus.
+The schedule of the bus is that it comes every 12 minutes (00, 12, 24, 36, 48). 
+
+#### Part 1
+Using switch statements, can you help him figure out how long he will need to wait until the next bus shows up?
+
+#### Part 2
+Let's say you were given the times of the bus as an array, `var times = [0, 12, 24, 36, 48]`.
+Using a for loop, can you help him figure out how long he will need to wait until the next bus shows up?
 
