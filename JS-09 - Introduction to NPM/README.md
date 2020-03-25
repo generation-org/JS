@@ -2,10 +2,12 @@
 
 ## Using Axios 
 
-Git clone - 
+Git clone the exercise folder (https://github.com/generation-org/NPM-Practice).
 
-Create a new npm project called: using axios. Fill in as many fields as you can with information to create the package.json.
-`npm init`
+Make sure you have installed NPM properly. You can reference [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you are having trouble with your installation.
+
+This folder doesn't have NPM initialized, create an NPM project and fill in as many fields as you can with information to create the package.json.
+(Hint use: `npm init`)
 
 To prepare for this exercise, we will need to install json-server
 
