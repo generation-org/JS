@@ -56,7 +56,7 @@ Every *Booklist* should have a few methods:
 
 *Booklists* and *Books* might need more methods than that. Try to think of more that might be useful.
 
-Update your HTML page with a section that shows the name of your booklist, the number of books marked as read, and what the next book to read it.  
+Update your HTML page with a section that shows the name of your booklist, the number of books marked as read, and what the next book to read is.  
 
 #### Part 3 SOLID Principles
 Review the `SOLID` principles and see how your Javascript code can be refactored to adhere those principles.
