@@ -20,7 +20,7 @@ An object-oriented book-list!
 Start off with an HTML page that has the title: My Book List.
 
 #### Part 1 Book
-In your Javascript class, create a class called `Book`
+In your Javascript file, create a class called `Book`
 Each *Book* should have several properties:
 
 * Title
@@ -32,7 +32,7 @@ Each *Book* should have several properties:
 Add to your HTML page 2 books that reference the Book objects.
 
 #### Part 2 Booklist
-In your Javascript class - create a class `BookList`
+In your Javascript file - create a class `BookList`
 
 *BookLists* should have the following properties:
 
