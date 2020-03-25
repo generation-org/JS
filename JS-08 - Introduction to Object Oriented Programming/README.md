@@ -90,10 +90,12 @@ Abstractions should not depend upon details. Details should depend upon abstract
 ### Additional Practice
 
 Write a function called “convertObjectToList” which converts an object into an array of arrays.
+```
 Input (Object):
 var object = {name: “Lucia”, age: 35, role: “Scientist”};
 Output:
 [[“name”, “Lucia”], [“age”, 35], [“role”, “Scientist”]]
+```
 
 Sample code:
 ```
