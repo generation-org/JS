@@ -13,8 +13,10 @@ So for example, if Manny is 19 years old then the function describe of his objec
 ### Exercise #2: The Reading List
 An object-oriented book-list!
 
+Start off with an HTML page that has the title: My Book List.
+
 #### Part 1 Book
-Create another class called `Book`
+In your Javascript class, create a class called `Book`
 Each *Book* should have several properties:
 
 * Title
@@ -23,8 +25,10 @@ Each *Book* should have several properties:
 * Read (true or false)
 * Read date, can be blank, otherwise needs to be a JS Date() object
 
+Add to your HTML page 2 books that reference the Book objects.
+
 #### Part 2 Booklist
-Create a class `BookList`
+In your Javascript class - create a class `BookList`
 
 *BookLists* should have the following properties:
 
@@ -48,8 +52,10 @@ Every *Booklist* should have a few methods:
 
 *Booklists* and *Books* might need more methods than that. Try to think of more that might be useful.
 
+Update your HTML page with a section that shows the name of your booklist, the number of books marked as read, and what the next book to read it.  
+
 #### Part 3 SOLID Principles
-Review the `SOLID` principles and see how your code can be refactored to adhere those principles.
+Review the `SOLID` principles and see how your Javascript code can be refactored to adhere those principles.
 
 
 ```
