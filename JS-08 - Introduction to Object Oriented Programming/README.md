@@ -2,11 +2,15 @@
 
 ### Exercise #1: A Person Object
 
+#### Part 1 Javascript
 Create a class called Person which accepts the name of a person as a string, and his/her/their age as a number.
 
 The Person class should have a method called describe which returns a string with the following syntax: "name, age years old". 
 
 So for example, if Manny is 19 years old then the function describe of his object will return "Manny, 19 years old".
+
+#### Part 2 HTML
+Create an HTML page that has an 2 input boxes, one for name and another for age. When someone enters a name and age, the page will show a list of "{Name}, {x} years old". The list should be all the names and ages entered in that session.
 
 ----
 
@@ -83,7 +87,7 @@ Abstractions should not depend upon details. Details should depend upon abstract
 ```
 
 ----
-### Exercise #3 JSON Object Practice
+### Additional Practice
 
 Write a function called “convertObjectToList” which converts an object into an array of arrays.
 Input (Object):
