@@ -48,10 +48,11 @@ Sample HTML file :
 
 ### Exercise #3
 
-Write a function called by clicking a button on a page to alert
+Write a function called by clicking a button on a page to show an alert with:
 
-The number of links on the page
-The first and last of these links
+1. The number of links on the page
+2. The first link in the page
+3. The last link in the page
 
 ### Exercise #4
 
