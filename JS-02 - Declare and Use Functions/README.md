@@ -34,7 +34,7 @@ ie. 1990 returns 30
 Ed would like to create a function that prints out, 
 `Welcome {name1}, you are {age1}. Welcome {name2}, you are {age2}. Welcome {name3}, you are {age3}.`
 
-### Exercise #3
+### Challenge Yourself
 A teacher wants to create a rubric for grading. The rubric is from 0 - 11.
 
 #### Part 1
@@ -49,5 +49,3 @@ Add on to your function to print out "Excellent" for scores greater than 8.
 A student has a perfect grade if their score is 11.
 Add on to your function to print out "Perfect" for a score of 11.
 
-## Additional 
-Help out your classmates if you finish early.
