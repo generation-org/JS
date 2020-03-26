@@ -1,8 +1,8 @@
 # JS-1 Data Types and Variables
 
-## Part 1: Type Converter  (Work in pairs!)
+## Part 1: Type Converter
 
-Complete the following table:
+Work with someone else and complete the following table:
 
 | Value to be converted | number() | String() | Boolean() |
 |-----------------------|----------|----------|-----------|
