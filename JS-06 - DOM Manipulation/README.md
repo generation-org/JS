@@ -48,7 +48,7 @@ Sample HTML file :
 
 ### Exercise #3
 
-Write a function called by clicking a button on a page to show an alert with:
+Write a function and call it when clicking a button on a page to show an alert with:
 
 1. The number of links on the page
 2. The first link in the page
