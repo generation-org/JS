@@ -2,7 +2,7 @@
 
 ## Part 1: Type Converter
 
-Work with someone else and complete the following table:
+Work in pairs to complete the following table:
 
 | Value to be converted | number() | String() | Boolean() |
 |-----------------------|----------|----------|-----------|
