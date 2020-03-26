@@ -1,6 +1,24 @@
 # JS-1 Data Types and Variables
 
+## Complete the following table:
 
+| Value to be converted | number() | String() | Boolean() |
+|-----------------------|----------|----------|-----------|
+| false                 |          |          |           |
+| true                  |          |          |           |
+| 0                     |          |          |           |
+| 1                     |          |          |           |
+| “0”                   |          |          |           |
+| “000”                 |          |          |           |
+| “1”                   |          |          |           |
+| NaN                   |          |          |           |
+| Infinity              |          |          |           |
+| -Infinity             |          |          |           |
+| “”                    |          |          |           |
+| “20”                  |          |          |           |
+| “Twenty”              |          |          |           |
+| null                  |          |          |           |
+| undefinited           |          |          |           |
 Complete each challenge, use all resources available. 
 Participants are to work individually
 
