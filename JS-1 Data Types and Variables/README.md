@@ -1,6 +1,6 @@
 # JS-1 Data Types and Variables
 
-## Part 1: Type Converter  
+## Part 1: Type Converter  (Work in pairs!)
 
 Complete the following table:
 
