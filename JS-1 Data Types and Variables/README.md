@@ -19,6 +19,7 @@
 | “Twenty”              |          |          |           |
 | null                  |          |          |           |
 | undefinited           |          |          |           |
+
 Complete each challenge, use all resources available. 
 Participants are to work individually
 
