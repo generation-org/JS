@@ -7,7 +7,7 @@ Open up a text editor of your choice and complete the following Javascript exerc
 We'll build the industry plant calendar from the opening exercise.
 
 #### Part 1
-First, build a function called "businessHours", similarly to the day of the week class exercise, accepts two parameters: dayNumber and hourNumber.
+First, build a function called "businessHours". Similar to the day of the week class exercise, this function should accept two parameters: dayNumber and hourNumber.
 
 By reading the dayNumber and the hourNumber, your program should print whether it is business hours or not. It should return true if it is business hours, and false if not.
 
