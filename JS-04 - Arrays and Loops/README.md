@@ -41,7 +41,7 @@ as long as xValue remains positive.
 - Print all the odd numbers between 1 - 100.
 ```
 ```
-- Write a method with a while loop to prints 1 through n in square brackets. 
+- Write a method with a while loop to print 1 through n in square brackets. 
 For example, if n = 6 print [1] [2] [3] [4] [5] [6]
 ```
 ```
@@ -55,7 +55,7 @@ n = 19 sum = 190
 ### Challenge Yourself
 
 Mateo is waiting for the bus.
-The schedule of the bus is that it comes every 12 minutes (00, 12, 24, 36, 48). 
+The bus is scheduled to arrive every 12 minutes (00, 12, 24, 36, 48). 
 
 #### Part 1
 Using switch statements, can you help him figure out how long he will need to wait until the next bus shows up?
