@@ -6,7 +6,7 @@ Before each exercise, make sure you think about the 4 steps of a function.
 1. Understand the purpose of the function.
 2. Define the data that comes into the function from the caller (in the form of parameters)!
 3. Define what data variables are needed inside the function to accomplish its goal.
-4. Decide the set of steps that the program will use to accomplish this goal. (The Algorithm)
+4. Decide the set of steps that the program will use to accomplish this goal (the algorithm).
 ```
 
 Start coding up your answer once you have completed step 4.
@@ -22,16 +22,16 @@ Return the value of what she should be paying.
 
 #### Part 1
 Ed would like a way to input 3 names of his friends.
-The output should be a console greeting to his friends saying, 
+The output should be a console greeting to his friends saying: 
 `Welcome {name1}, {name2}, {name3}.`
 
 #### Part 2
-Ed would like to create a functions that takes in a birth year and returns the age.
+Ed would like to create a function that takes in a birth year and returns the age.
 
-ie. 1990 returns 30
+i.e. 1990 returns 30
 
 #### Part 3
-Ed would like to create a function that prints out, 
+Ed would like to create a function that prints out,
 `Welcome {name1}, you are {age1}. Welcome {name2}, you are {age2}. Welcome {name3}, you are {age3}.`
 
 ### Challenge Yourself
