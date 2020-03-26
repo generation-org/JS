@@ -1,12 +1,12 @@
 # JS-02 Declare and Use Functions
 
-Before each exercise, make sure you think of the 4 steps of a function.
+Before each exercise, make sure you think about the 4 steps of a function.
 
 ```
 1. Understand the purpose of the function.
 2. Define the data that comes into the function from the caller (in the form of parameters)!
 3. Define what data variables are needed inside the function to accomplish its goal.
-4. Decide on the set of steps that the program will use to accomplish this goal. (The Algorithm)
+4. Decide the set of steps that the program will use to accomplish this goal. (The Algorithm)
 ```
 
 Start coding up your answer once you have completed step 4.
