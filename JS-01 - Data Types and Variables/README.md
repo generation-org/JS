@@ -43,4 +43,3 @@ Each piece of information should be a variable.
 Display the card with the information in the correct place.
 Example: “Hi, my name is John. I live in South Africa and enjoy drinking homemade wine.”
 
-#### Instructor note: You may need to show participants how to use the separator for strings. 
