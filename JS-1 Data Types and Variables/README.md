@@ -22,9 +22,8 @@
 Complete each challenge, use all resources available. 
 Participants are to work individually
 
-## Challenge 1:
+### Challenge 1: Create an Age Calculator
 
-### Create an Age Calculator
 Store your birth year in a variable
 Store a future year in another variable 
 Calculate the possible ages for that year and display it in the console 
@@ -32,8 +31,8 @@ Example: If you were born in 1988, then in 2026 you’ll be either 37 or 38 depe
 
 
 
-### Challenge 2:
-Create an information card
+### Challenge 2: Create an information card
+
 Create a card holding 3 pieces of information about a person such as:
 Name
 Location
