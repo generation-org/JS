@@ -22,6 +22,9 @@ Work with someone else and complete the following table:
 | null                  |          |          |           |
 | undefinited           |          |          |           |
 
+
+## Part 2:  New contender
+
 Complete each challenge, use all resources available. 
 Participants are to work individually
 
