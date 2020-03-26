@@ -13,7 +13,7 @@ Sample HTML file:
   </head> 
   
   <body>
-    <p id ='text'>JavaScript Exercises #1</p> 
+    <p id="text">JavaScript Exercises #1</p> 
     <div>
       <button id="jsstyle" onclick="js_style()">Style</button>
     </div>
@@ -97,7 +97,7 @@ Write the code necessary to do the following:
 9. Give the li the text "four".
 10. Append the li to the ul element.
 
-## Additional Exercises
+## Challenge Yourself
 
 ### Add on to Exercise #4 
 1. Loop over all of the lis inside the ol tag and give them a background color of "green".
