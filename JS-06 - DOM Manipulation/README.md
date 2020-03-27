@@ -20,7 +20,7 @@ Sample HTML file:
   </body>
 </html>
 ```
-Clicking on the button the font, font size, and color of the paragraph text should be changed.
+By clicking on the button the font, font size, and color of the paragraph text should be changed.
 
 ### Exercise #2
 
