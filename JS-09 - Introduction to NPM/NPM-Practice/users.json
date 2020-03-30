@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Joshua",
+      "last_name": "Diaz",
+      "email": "j3@gmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Olivia",
+      "last_name": "Brown",
+      "email": "olibrown432@yahoo.com"
+    },
+    {
+      "id": 5,
+      "first_name": "Alex",
+      "last_name": "Chen",
+      "email": "achen12@yahoo.com"
+    },
+    {
+      "id": 6,
+      "first_name": "Fred",
+      "last_name": "Blair",
+      "email": "freddyb34@gmail.com"
+    }
+  ]
+}
