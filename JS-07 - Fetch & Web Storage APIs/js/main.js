@@ -17,9 +17,9 @@ function fetchColorsList(){
     //TODO implement this function
 }
 
-function loadColoursFromStorage(){
+function loadColorsFromStorage(){
     //TODO implement this function
 }
 
-fetchColorsList()
-loadColoursFromStorage()
+fetchColorsList();
+loadColorsFromStorage();
