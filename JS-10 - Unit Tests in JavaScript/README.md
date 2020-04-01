@@ -17,3 +17,17 @@
  ```
 4. Open the *js* folder on Visual Studio Code and verify the existing tesst.
  
+## Part 2: Implement Calculator test
+1. Implement 2 unit test for the *divide* function
+2. Implement 2 unit test for the *multiply* function
+
+## Part 3: Implement UserController test
+1. Implement 1 test for the *add* function that verifies a user that is not in the users' list.
+2. Implement 1 test for the *remove* function that verifies a user that is not in the users' list.
+3. Implement 2 unit tests for the *findByEmail* function.
+4. Implement 2 unit tests for the *findById* function.
+
+## Challenge Yourself
+In Test Driven Development you write first test that fail then you add the code so test can pass.
+1. Write a unit test to verify the function *divide* by passing 0 as the second argument.
+2. Fix the multiply function so the test passes and it does handle the case for division by 0.
