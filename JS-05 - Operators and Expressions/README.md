@@ -7,7 +7,7 @@
 
 ### Exercise #1
 
-You have a list of names
+You have a list of names:
 `var names = ["Maria", "Antony", "Joy", "Juan"]`
 
 #### Part 1
@@ -18,7 +18,7 @@ Add your own name to the end of the list.
 Write a function that takes in a name and checks if the list has that name. It should return back a boolean - true/false.
 
 #### Part 3
-Write a function that takes in a list of names. This function should compare the list passed in to the `names` list you currently have.
+Write a function that takes in a list of names. This function should compare the list taken in to the `names` list you currently have.
 The function should pass back an array with the names that are in both lists.
 
 
