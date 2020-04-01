@@ -1,0 +1,27 @@
+{
+  "name": "js-10-tests",
+  "version": "1.0.0",
+  "description": "JavaScript unit test with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/generation-org/JS.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Testing",
+    "Jest"
+  ],
+  "author": "Santiago Carrillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/generation-org/JS/issues"
+  },
+  "homepage": "https://github.com/generation-org/JS#readme",
+  "devDependencies": {
+    "jest": "^25.2.4"
+  }
+}
