@@ -111,4 +111,4 @@ function convertListToObject(obj) {
 ```
 
 2. Complete the following practice:
- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice
+* https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice
