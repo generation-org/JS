@@ -25,11 +25,12 @@ Sample HTML file:
   </body>
 </html>
 ```
-By clicking on the button the font, font size, and color of the paragraph text should be changed.
+By clicking on the button, the font, font size, and color of the paragraph text should change.
 
 ### Exercise #2
 
-Write a JavaScript function to get the values of First and Last name of the following form.
+Write a JavaScript function to get the values of First and Last name from the following form.
+
 Print out the names to the console.
 
 Sample HTML file :
@@ -53,7 +54,7 @@ Sample HTML file :
 
 ### Exercise #3
 
-Write a function and call it when clicking a button on a page to show an alert with:
+Write a function and call it when clicking a button to show an alert with:
 
 1. The number of links on the page
 2. The first link in the page
@@ -89,15 +90,15 @@ Write a function and call it when clicking a button on a page to show an alert w
 </html>
 ```
 
-Write the code necessary to do the following:
+Write the code that will do the following:
 
-1. Select the section with an id of container without using querySelector.
-2. Select the section with an id of container using querySelector.
-3. Select all of the list items with a class of "second".
+1. Select the section with a container id without using querySelector.
+2. Select the section with a container id using querySelector.
+3. Select all the items list with a class of "second".
 4. Select a list item with a class of third, but only the list item inside of the ol tag.
-5. Give the section with an id of container the text "Hello!".
-6. Add the class main to the div with a class of footer.
-7. Remove the class main on the div with a class of footer.
+5. Give the text "Hello!" to the section with a container id.
+6. Add the main class to the div with a footer class.
+7. Remove the main class on the div with a footer class.
 8. Create a new li element.
 9. Give the li the text "four".
 10. Append the li to the ul element.
@@ -105,5 +106,5 @@ Write the code necessary to do the following:
 ## Challenge Yourself
 
 ### Add on to Exercise #4 
-1. Loop over all of the lis inside the ol tag and give them a background color of "green".
-2. Remove the div with a class of footer.
+1. Loop over all the li inside the ol tag and give them a background "green" color.
+2. Remove the div with a footer class.
