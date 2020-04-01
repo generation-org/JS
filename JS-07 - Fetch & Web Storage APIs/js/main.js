@@ -14,11 +14,23 @@ function addItem(item){
 addItem({"id":1,"name":"cerulean","year":2000,"color":"#98B2D1","pantone_value":"15-4020"});
 
 function fetchColorsList(){
-    //TODO implement this function
+    fetch('https://reqres.in/api/unknown')
+        .then(response =>
+            response.json()
+        )
+        .then(data => {
+            localStorage['colors'] = JSON.stringify(data.data);
+        })
+        .catch(error => console.log(error));
 }
 
 function loadColorsFromStorage(){
-    //TODO implement this function
+    let colors = JSON.parse(localStorage['colors']);
+    if (colors) {
+        colors.forEach(color => {
+            addItem(color);
+        });
+    }
 }
 
 fetchColorsList();
