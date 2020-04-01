@@ -5,4 +5,15 @@
  <br/>
  <br/>
 
-## Part 1
+## Part 1: Verify and Run Tests
+1. Download the file and navigate using the terminal inside the *js* folder.
+2. Run the following command to install the dependencies using NPM:
+ ```bash
+   npm install
+ ```
+3. Run the unit tests and verify the results:
+ ```bash
+   npm test
+ ```
+4. Open the *js* folder on Visual Studio Code and verify the existing tesst.
+ 
