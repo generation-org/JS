@@ -94,7 +94,7 @@ Abstractions should not depend upon details. Details should depend upon abstract
 ----
 ### Additional Practice
 
-Write a function called “convertObjectToList” which converts an object into an array of arrays.
+1. Write a function called “convertObjectToList” which converts an object into an array of arrays.
 ```
 Input (Object):
 var object = {name: “Lucia”, age: 35, role: “Scientist”};
@@ -109,3 +109,6 @@ function convertListToObject(obj) {
  // your code here
 }
 ```
+
+2. Complete the following practice:
+ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice
