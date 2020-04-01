@@ -92,7 +92,7 @@ Abstractions should not depend upon details. Details should depend upon abstract
 ```
 
 ----
-### Additional Practice
+### Challenge Yourself
 
 1. Write a function called “convertObjectToList” which converts an object into an array of arrays.
 ```
