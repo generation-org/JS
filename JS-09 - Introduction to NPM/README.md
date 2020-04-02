@@ -21,7 +21,7 @@ Run the command:
 
 We will be using JSON Server to create a fake REST API.
 
-Check out the test user data in this folder - `users.json`. Copy the file into your folder.
+Check out the test user data in this folder - `users.json`. 
 
 #### Starting JSON server
 The JSON server is started with the json-server, which we have installed globally.
