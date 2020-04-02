@@ -19,6 +19,9 @@ To prepare for this exercise, we will need to install json-server
 Run the command:
 `npm install -g json-server`
 
+Run the command:
+`npm install axios --save`
+
 We will be using JSON Server to create a fake REST API.
 
 Check out the test user data in this folder - `users.json`. 
