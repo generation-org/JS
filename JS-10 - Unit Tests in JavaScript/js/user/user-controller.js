@@ -19,14 +19,14 @@ class UserController{
     }
 
     findByEmail(email){
-        for (i = 0; i < this.users.length; i++) { 
+        for (let i = 0; i < this.users.length; i++) { 
             if(this.users[i].email === email)
                 return this.users[i];
         } 
     }
 
     findById(id){
-        for (i = 0; i < this.users.length; i++) { 
+        for (let i = 0; i < this.users.length; i++) { 
             if(this.users[i].id === id)
                 return users[i];
         } 
