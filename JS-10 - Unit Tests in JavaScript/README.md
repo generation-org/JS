@@ -30,4 +30,4 @@
 ## Challenge Yourself
 In Test Driven Development you write first test that fail then you add the code so test can pass.
 1. Write a unit test to verify the function *divide* by passing 0 as the second argument.
-2. Fix the multiply function so the test passes and it does handle the case for division by 0.
+2. Fix the divide function so the test passes and it does handle the case for division by 0.
