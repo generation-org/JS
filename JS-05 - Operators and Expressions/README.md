@@ -1,6 +1,6 @@
 <img align="right" width="150" height="150" src="https://media-exp1.licdn.com/dms/image/C4E0BAQF7BYCCZt5epw/company-logo_200_200/0?e=2159024400&v=beta&t=qUAFP9bUgBEEXGVQYpUXW1J_OiP8e0r4rFBpqp8OrxA">
 
-# JS-05 Operators and Expressions
+# JS-05 Conditions and Expressions
 
  <br/>
  <br/>
@@ -18,7 +18,7 @@ Add your own name to the end of the list.
 Write a function that takes in a name and checks if the list has that name. It should return back a boolean - true/false.
 
 #### Part 3
-Write a function that takes in a list of names. This function should compare the list taken in to the `names` list you currently have.
+Write a function that takes in a list of names. This function should compare the list taken into the `names` list you currently have.
 The function should pass back an array with the names that are in both lists.
 
 
