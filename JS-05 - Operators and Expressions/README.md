@@ -22,7 +22,7 @@ Write a function that takes in a list of names. This function should compare the
 The function should pass back an array with the names that are in both lists.
 
 #### Part 4
-Write a function that takes in a list of names and returns a list of Integers with the length of the names in the same order as received.
+Write a function that takes in a list of names and returns a list of Integers with the length of the names in the same order as received. *Hint* use the [push function](https://www.w3schools.com/jsref/jsref_push.asp)
 
 
 ### Exercise #2
