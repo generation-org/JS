@@ -21,6 +21,9 @@ Write a function that takes in a name and checks if the list has that name. It s
 Write a function that takes in a list of names. This function should compare the list taken into the `names` list you currently have.
 The function should pass back an array with the names that are in both lists.
 
+#### Part 4
+Write a function that takes in a list of names and returns a list of Integers with the length of the names in the same order as received.
+
 
 ### Exercise #2
 
