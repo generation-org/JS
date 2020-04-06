@@ -12,7 +12,7 @@
 1. Download the *js* folder and the *index.html* files from this repository.
 2. Open the *index.html* in the browser and observe what it does.
 3. Open the *js* folder and the *index.html* with Visual Studio Code and analyze the functionality and the code.
-4. Implement the function *fetchColorsList* using the fetch api to download the full colors list from the following endpoint:
+4. Implement the function *fetchColorsList* using the fetch API to download the full colors list from the following endpoint:
   https://reqres.in/api/unknown
 5. Connect the *fetchColorsList* with the *addItem* funciton so the colors list is filled and displayed in the *index.html* page.
 
