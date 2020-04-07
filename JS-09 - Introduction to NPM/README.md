@@ -11,10 +11,10 @@ Git clone the exercise folder (https://github.com/generation-org/NPM-Practice).
 
 Make sure you have installed NPM properly. You can reference [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you are having trouble with your installation.
 
-This folder doesn't have NPM initialized, create an NPM project and fill in as many fields as you can with information to create the package.json.
+This folder doesn't have NPM initialized. Create an NPM project and fill in as many fields as you can with information to create the package.json.
 (Hint use: `npm init`)
 
-To prepare for this exercise, we will need to install json-server
+To prepare for this exercise, we will need to install json-server.
 
 Run the command:
 `npm install -g json-server`
