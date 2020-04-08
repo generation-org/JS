@@ -15,16 +15,18 @@ The Person class should have a method called Describe which returns a string wit
 For example, if Manny is 19 years old the function Describe of his object will return "Manny, 19 years old".
 
 #### Part 2 HTML
-Create an HTML page that has an 2 input boxes: one for name and another for age. When someone enters a name and age, the page will show a list of "{Name}, {x} years old". The list should be all the names and ages entered in that session.
+Create an HTML page that has 2 input boxes: one for name and another for age. When someone enters a name and age, the page will show a list of "{Name}, {x} years old". 
 
 ----
 
 ### Exercise #2: The Reading List
-An object-oriented book-list!
+
+Create an object-oriented book-list!
 
 Start with an HTML page that has the title: My Book List.
 
 #### Part 1 Book
+
 In your Javascript file, create a class called `Book`.
 Each *Book* should have several properties:
 
@@ -37,12 +39,13 @@ Each *Book* should have several properties:
 Add to your HTML page 2 books that reference the Book objects.
 
 #### Part 2 Booklist
+
 In your Javascript file - create a class `BookList`.
 
 *BookLists* should have the following properties:
 
 * Number of books marked as read
-* Number of books marked not read yet
+* Number of books marked as not read yet
 * A reference to the next book to read (book object)
 * A reference to the current book being read (book object)
 * A reference to the last book read (book object)
