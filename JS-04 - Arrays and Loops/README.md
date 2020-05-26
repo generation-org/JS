@@ -56,16 +56,3 @@ Examples:
 n = 5 sum = 15
 n = 19 sum = 190
 ```
-
-### Challenge Yourself
-
-Mateo is waiting for the bus.
-The bus is scheduled to arrive every 12 minutes (00, 12, 24, 36, 48). 
-
-#### Part 1
-Using switch statements, can you help him figure out how long he will need to wait until the next bus shows up?
-
-#### Part 2
-Let's say you were given the times of the bus as an array, `var times = [0, 12, 24, 36, 48]`.
-Using a for loop, can you help him figure out how long he will need to wait until the next bus shows up?
-
