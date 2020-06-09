@@ -16,7 +16,7 @@
   https://reqres.in/api/unknown
 5. Connect the *fetchColorsList* with the *addItem* funciton so the colors list is filled and displayed in the *index.html* page.
 
- ## Part 1: Using the Web Storage API
+ ## Part 2: Using the Web Storage API
 1. Modify the *fetchColorsList* function so when the data is downloaded from the API, the colors list is stored using the local storage.
 2. Implement the *loadColorsFromStorage* function so the color values are loaded from the local storage.
 3. Open the developer tools and verify that the data is stored in the local storage.
