@@ -1,3 +1,5 @@
+const itemsContainer = document.getElementById("list-items");
+
 function addItem(item) {
     const itemHTML = '<div class="card" style="width: 18rem;">\n' +
         '    <div class="card-body">\n' +
@@ -7,34 +9,35 @@ function addItem(item) {
         '    </div>\n' +
         '</div>\n' +
         '<br/>';
-    const itemsContainer = document.querySelector("#list-items");
     itemsContainer.innerHTML += itemHTML;
 }
 
-// after fetching the colors, call addItem with each color
+// runs if online
 function fetchColorsList() {
-    fetch('data.json')
+    fetch('https://reqres.in/api/data')
         .then((response) => response.json()) // transforms data into json
         .then(response => {
+            // reset html so page is blank
+            itemsContainer.innerHTML = '';
             for (let i = 0; i < response.data.length; i++) {
                 addItem(response.data[i]);
             }
-
             const colorsJson = JSON.stringify(response.data);
             localStorage.setItem('colors', colorsJson);
-        })
+        });
 }
 
+// render if offline
 function loadColorsFromStorage() {
     if (localStorage.getItem('colors')) {
         const colorsJson = localStorage.getItem('colors');
         const colors = JSON.parse(colorsJson);
+        // reset html
         itemsContainer.innerHTML = '';
         for (let i = 0; i < colors.length; i++) {
             addItem(colors[i]);
         }
     }
 }
-
 fetchColorsList();
 loadColorsFromStorage();
